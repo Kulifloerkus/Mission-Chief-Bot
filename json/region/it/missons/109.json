@@ -1,0 +1,1 @@
+{"missionId": "109", "missionName": "Incidente con veicoli particolari", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "3"}]}

@@ -1,0 +1,1 @@
+{"missionId": "66", "missionName": "Stanza in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}]}

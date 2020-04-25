@@ -1,0 +1,14 @@
+{
+    "APS/ABP" : [0, 9],
+    "Autoscale": [1],
+    "Funzionari": [2],
+    "Unità polisoccorso" : [3, 9],
+    "ambulance" : [4],
+    "Kilolitriche": [5],
+    "NBCR": [6],
+    "Pattuglie" : [7],
+    "Elisoccorso": [8],
+    "Carro aria": [10],
+    "UCL": [11],
+	"Autogrù": [12]
+}

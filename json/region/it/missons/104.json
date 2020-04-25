@@ -1,0 +1,1 @@
+{"missionId": "104", "missionName": "Soccorso a persona", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}]}

@@ -1,0 +1,1 @@
+{"missionId": "73", "missionName": "Grave incidente con autobus coinvolto", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "15"}]}

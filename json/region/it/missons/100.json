@@ -1,0 +1,1 @@
+{"missionId": "100", "missionName": "Veicolo della nettezza urbana in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}]}

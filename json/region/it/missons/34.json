@@ -1,0 +1,1 @@
+{"missionId": "34", "missionName": "Incendio in ospedale", "requirements": [{"requirement": "aps/abp", "qty": "8"}, {"requirement": "funzionari", "qty": "2"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "3"}, {"requirement": "kilolitriche", "qty": "1"}, {"requirement": "autoscale", "qty": "2"}, {"requirement": "max pazienti", "qty": "25"}]}

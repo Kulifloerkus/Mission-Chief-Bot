@@ -1,0 +1,1 @@
+{"missionId": "105", "missionName": "Intossicazione da monossido", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "10"}]}

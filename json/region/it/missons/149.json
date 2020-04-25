@@ -1,0 +1,1 @@
+{"missionId": "149", "missionName": "Incendio cisterna chimica", "requirements": [{"requirement": "aps/abp", "qty": "5"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "4"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "4"}, {"requirement": "nbcr", "qty": "1"}, {"requirement": "max pazienti", "qty": "10"}]}

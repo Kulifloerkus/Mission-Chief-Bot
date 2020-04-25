@@ -1,0 +1,1 @@
+{"missionId": "130", "missionName": "Ferito sul traliccio dell'alta tensione", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}]}

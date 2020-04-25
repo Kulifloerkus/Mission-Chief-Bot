@@ -1,0 +1,1 @@
+{"missionId": "60", "missionName": "Palestra in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "max pazienti", "qty": "10"}]}

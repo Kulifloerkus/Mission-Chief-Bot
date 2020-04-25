@@ -1,0 +1,1 @@
+{"missionId": "99", "missionName": "Veicolo di trasporto merci pesante in fiamme", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}]}

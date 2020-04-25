@@ -1,0 +1,1 @@
+{"missionId": "69", "missionName": "Fuoriuscita chimica da autocisterna", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unit\u00e0 polisoccorso", "qty": "1"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "nbcr", "qty": "1"}]}
