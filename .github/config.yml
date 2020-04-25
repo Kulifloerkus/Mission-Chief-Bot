@@ -1,0 +1,13 @@
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here! Please try and fill in as much information as possible!
+   https://media3.giphy.com/media/h86JgQeds47I9ZNw0r/giphy.gif
+newPRWelcomeComment: >
+  Thanks for opening this pull request!
+  https://media3.giphy.com/media/h86JgQeds47I9ZNw0r/giphy.gif
+
+firstPRMergeComment: >
+  Congrats on merging your first pull request!
+  https://media3.giphy.com/media/h86JgQeds47I9ZNw0r/giphy.gif
+# It is recommended to include as many gifs and emojis as possible!
