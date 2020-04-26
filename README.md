@@ -33,8 +33,8 @@ Just double click the .exe and you're up and running!
 
 If you have any issues and would like to let us know directly, please join our discord.
 <p align="center">
-  <a href="https://discord.gg/fxKtSuD">
-    <img src="https://discordapp.com/api/guilds/676191159638425620/widget.png?style=banner2" />
+  <a href="https://discord.gg/Kp8PtPK">
+    <img src="https://discordapp.com/api/guilds/703655404885901393/widget.png?style=banner2" />
   </a>
 </p>
 
