@@ -1,1 +1,1 @@
-{"missionId": "25", "missionName": "Road accident", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "ambulance", "qty": "1"}]}
+{"missionId": "25", "missionName": "Road accident", "requirements": [{"requirement": "fire engines", "qty": "1"}, {"requirement": "max. patients", "qty": "1"}]}

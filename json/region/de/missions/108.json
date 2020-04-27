@@ -1,1 +1,1 @@
-{"missionId": "108", "missionName": "Schwangere in Notsituation", "requirements": [{"requirement": "mindest patientenanzahl", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}]}
+{"missionId": "108", "missionName": "Schwangere in Notsituation", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}]}

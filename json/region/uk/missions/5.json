@@ -1,1 +1,1 @@
-{"missionId": "5", "missionName": "Room fire", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "ambulance", "qty": "1"}]}
+{"missionId": "5", "missionName": "Room fire", "requirements": [{"requirement": "fire engines", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}]}

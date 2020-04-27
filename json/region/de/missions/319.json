@@ -1,1 +1,1 @@
-{"missionId": "319", "missionName": "Person in Baugrube", "requirements": [{"requirement": "l\u00f6schfahrzeuge", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "r\u00fcstwagen", "qty": "1"}, {"requirement": "mindest patientenanzahl", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}]}
+{"missionId": "319", "missionName": "This site can\u2019t be reached", "requirements": [{"requirement": "ambulance", "qty": 1}]}

@@ -37,7 +37,7 @@
 	"rettung" : [29, 31],
 	"rettungstreppen" : [76],
 	"rettungswache" : [38, 74],
-	"rtw" : [28, 73],
+	"maximale patientenanzahl" : [28, 73],
 	"sek-fahrzeuge" : [79, 80],
 	"sek-zf" : [79],
 	"sek-mtf" : [80],
@@ -53,5 +53,6 @@
 	"kdow-orgl" : [56],
 	"ktw typ b" : [58],
 	"gw-wasserrettung" : [64],
-	"lkw 7 lkr 19 tm" : [65]
+	"lkw 7 lkr 19 tm" : [65],
+	"gw-mess" : [12]
 }

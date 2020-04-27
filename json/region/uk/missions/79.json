@@ -1,1 +1,1 @@
-{"missionId": "79", "missionName": "Respiratory Arrest", "requirements": [{"requirement": "ambulance", "qty": "1"}]}
+{"missionId": "79", "missionName": "Respiratory Arrest", "requirements": [{"requirement": "max. patients", "qty": "1"}]}

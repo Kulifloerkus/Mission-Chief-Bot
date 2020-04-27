@@ -1,1 +1,1 @@
-{"missionId": "427", "missionName": "Gebrochener Arm", "requirements": [{"requirement": "mindest patientenanzahl", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}]}
+{"missionId": "427", "missionName": "Gebrochener Arm", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}]}
