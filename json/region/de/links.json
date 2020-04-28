@@ -38,6 +38,7 @@
 	"rettungstreppen" : [76],
 	"rettungswache" : [38, 74],
 	"maximale patientenanzahl" : [28, 73],
+	"ambulance" : [28, 73],
 	"sek-fahrzeuge" : [79, 80],
 	"sek-zf" : [79],
 	"sek-mtf" : [80],
