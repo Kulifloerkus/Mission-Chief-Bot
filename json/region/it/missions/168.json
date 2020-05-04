@@ -1,0 +1,1 @@
+{"missionId": "168", "missionName": "Giostra ferma sulle rotaie", "requirements": [{"requirement": "unit\u00e0 polisoccorso", "qty": "2"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "aps/abp", "qty": "1"}, {"requirement": "max pazienti", "qty": "4"}]}
