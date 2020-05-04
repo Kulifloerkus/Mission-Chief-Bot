@@ -1,7 +1,7 @@
 {
     "firetrucks" : [0, 1, 30, 13, 18],
     "platform trucks": [2,13],
-    "wildland fire engines": [30, 32, 32, 33],
+    "wildland fire engines": [30, 31, 32, 33],
     "battalion chief vehicles": [3,12],
     "heavy rescue vehicles" : [4,18,8],
     "ambulance" : [5, 27],
