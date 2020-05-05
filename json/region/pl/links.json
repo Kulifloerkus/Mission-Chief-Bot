@@ -1,0 +1,11 @@
+{
+    "samochody po\u017carnicze": [0, 1],
+    "samochody oficera operacyjnego": [3],
+    "samochody ratownictwa technicznego": [4],
+    "cysterny z wod\u0105": [6],
+    "sp wysoko\u015bciowe": [2],
+    "sp rchem": [7],
+    "samochody spgaz": [10],
+    "radiowozy": [8,16],
+    "maks. pacjenci": [5]
+  }
