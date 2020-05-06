@@ -1,5 +1,6 @@
 # Free Mission Chief Bot
 
+![Mission Chief Bot Example](https://i.imgur.com/dZR3nhm.gif)
 A bot written to automate the general despatching jobs of the bot, simply follow the guide and let it run. No fee to pay, no license required. 
 
 This was made to combat the issue of the [older bot](https://github.com/codesidian/Python-MissionChiefBot) being slow, and also difficult for users to install. Everything is there ready for the user at one click of a button.
@@ -59,6 +60,6 @@ This work is licensed under the Creative CommonsAttribution-NonCommercial-NoDeri
 Section 7.2 of the MissionChief official rules state:
 `Use of tools, scripts, bots or other computer programs:Users are not allowed to use tools, scripts, bots or other computer programs which are suitable for the automatic execution of actions in a game.`
 
-No developers of this bot hold any responsability for your use of it. We make no warranties about the effectiveness, or performance of this bot. If you're banned, that's on you. 
+No developers of this bot hold any responsibility for your use of it. We make no warranties about the effectiveness, or performance of this bot. If you're banned, that's on you. 
 
 **USE AT YOUR OWN RISK**
