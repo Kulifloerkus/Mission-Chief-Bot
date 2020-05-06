@@ -1,0 +1,15 @@
+{
+    "tankautospuiten": [1,6,7,12,17],
+    "hulpverleningsvoertuigen": [4],
+    "officiers van dienst politie": [35],
+    "redvoertuigen": [18],
+    "noodhulpeenheden": [22],
+    "ovd-b's": [3],
+    "politie helikopters": [28],
+    "slangenwagens" : [10,34],
+    "adviseurs gevaarlijke stoffen": [24],
+    "hondengeleider" : [47],
+    "hovd's" : [19],
+    "commandowagen" : [31],
+    "maximale pati\u00ebnten aantal" : [16]
+}
